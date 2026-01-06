@@ -1,0 +1,9 @@
+
+{
+  "name": "ClearWay",
+  "description": "A multilingual support guide for displaced persons to find legal rights, triage urgent needs, and communicate across language barriers.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
